@@ -16,7 +16,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. Clona el repositorio:
     ```bash
-    https://github.com/sotoflore/Administrador-Pacientes-Con-Zustand-y-React-Hook-Form.git
+    git clone https://github.com/sotoflore/Administrador-Pacientes-Con-Zustand-y-React-Hook-Form.git
     ```
 2. Entra en el directorio del proyecto:
     ```bash
